@@ -53,5 +53,3 @@ int main()
     quickSort(data,0,size-1);
     printArray(data,size);
 }
-
-kağıtta da yapppp
