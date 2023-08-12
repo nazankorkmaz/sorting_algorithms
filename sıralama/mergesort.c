@@ -65,4 +65,3 @@ int main() {
     return 0;
 }
 
-kağıtta yaz
